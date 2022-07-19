@@ -1,3 +1,3 @@
-Minhas anotações e e comando que estou aprendendo no curso de git e github
+Minhas anotações e e comando que estou aprendendo sobre git e github
 
 obs: ainda não esta completo
