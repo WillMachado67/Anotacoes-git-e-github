@@ -46,3 +46,5 @@
     * git checkout nomeDoArquivo (se o arquivo nao foi salvo)
 
 # Ignorar arquivos
+
+    * criar um arquivo com o nome .gitignore e dentro do arquivo inserir o nome dos arquivos e/ou pastas que serão ignorados pelo git (se for pasta colocar / antes do nome)
