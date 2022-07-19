@@ -51,4 +51,4 @@
 
 # resetar arquivos
 
-    * git reset --hard origin/main (reseta o arquivo para o ultimo push)
+    * git reset --hard origin/main (reseta o arquivo enviado para a branch (github))
