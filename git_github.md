@@ -48,3 +48,7 @@
 # Ignorar arquivos
 
     * criar um arquivo com o nome .gitignore e dentro do arquivo inserir o nome dos arquivos e/ou pastas que serão ignorados pelo git (se for pasta colocar / antes do nome)
+
+# resetar arquivos
+
+    * git reset --hard origin/main (reseta o arquivo para o ultimo push)
