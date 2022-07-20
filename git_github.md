@@ -5,11 +5,11 @@
     * git config --global user.email "" (para criar o email do usuário)
     * git config user.email (para verificar o email do usuário)
 
-# Repsitorio
+# Repositório
 
     * É onde os arquivos do seu projetos ficam armazenados
 
-# Iniando repositorio no git
+# Iniciando repositório no git
 
     * comando: git init
 
