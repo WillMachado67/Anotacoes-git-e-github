@@ -34,7 +34,7 @@
 
 # Subindo aquivos para o repositório remoto
 
-    * git push (depois de ter ativado todos os comandos do repositorio do github, push push sobe sempre que fizer alguma alteração)
+    * git push (depois de ter ativado todos os comandos da pasta do repositório remoto (GitHub), publica arquivos no repositório remoto (GitHub))
 # Clonando um repositório
 
     * git clone endereçoDoRepositório (para clonar a pasta com nome do repositório, para clonar apenas arquivos sem pasta digite " ." no final)
@@ -58,3 +58,8 @@
 # Branch
 
     * É uma maneira que o git disponibiliza para separar versões do projeto.
+
+# Visualizar e criar brach
+
+    * git branch (visualiza quanta branch tem o repositório)
+    * git branch page_ (para criar uma nova branch, depois do _ (underline), digite o nome da nova branch)
