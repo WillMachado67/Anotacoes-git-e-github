@@ -55,3 +55,6 @@
 # resetar arquivos
 
     * git reset --hard origin/main (reseta o arquivo enviado para a branch (github))
+# Branch
+
+    * É uma maneira que o git disponibiliza para separar versões do projeto.
