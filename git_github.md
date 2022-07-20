@@ -61,5 +61,9 @@
 
 # Visualizar e criar brach
 
-    * git branch (visualiza quanta branch tem o repositório)
-    * git branch page_ (para criar uma nova branch, depois do _ (underline), digite o nome da nova branch)
+    * git branch (visualiza quanta branch tem o repositório e qual esta ativa no momento)
+    * git branch nome (nome da nova branch)
+
+# Mudando de branch
+
+    * git checkout nome (nome da branch que você quer ir)
