@@ -32,6 +32,9 @@
 
     * hospeda/gerencia repositórios
 
+# Subindo aquivos para o repositório remoto
+
+    * git push (depois de ter ativado todos os comandos do repositorio do github, push push sobe sempre que fizer alguma alteração)
 # Clonando um repositório
 
     * git clone endereçoDoRepositório (para clonar a pasta com nome do repositório, para clonar apenas arquivos sem pasta digite " ." no final)
