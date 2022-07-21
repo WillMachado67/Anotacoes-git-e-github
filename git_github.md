@@ -67,3 +67,20 @@
 # Mudando de branch
 
     * git checkout nome (nome da branch que você quer ir)
+
+# Criar e mudar para a branch criada
+
+    * git checkout -b "" (dentro das apas digite o nome da nova branch)
+
+# Deletando branch
+
+    * git branch -d nome (nome da branch que deseja deletar)
+    
+# Unindo branch
+
+    * git merge nomeDaBranch (trás todas as alterações da branch, para a branch atual)
+
+# Substituir e salvar alterações
+
+    * git stash (retorna para o tatus inicial da branch, deleta e salva as ultimas alterações)
+
