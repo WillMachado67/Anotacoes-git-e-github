@@ -35,6 +35,9 @@
 # Subindo aquivos para o repositório remoto
 
     * git push (depois de ter ativado todos os comandos da pasta do repositório remoto (GitHub), publica arquivos no repositório remoto (GitHub))
+
+# Baixar alterações que estão no repositório remoto (github)
+    * git pull
 # Clonando um repositório
 
     * git clone endereçoDoRepositório (para clonar a pasta com nome do repositório, para clonar apenas arquivos sem pasta digite " ." no final)
@@ -54,7 +57,7 @@
 
 # resetar arquivos
 
-    * git reset --hard origin/main (reseta o arquivo enviado para a branch (github))
+    * git reset --hard origin/main (reseta o arquivo enviado para a repositório (github))
 # Branch
 
     * É uma maneira que o git disponibiliza para separar versões do projeto.
@@ -83,4 +86,6 @@
 # Substituir e salvar alterações
 
     * git stash (retorna para o tatus inicial da branch, deleta e salva as ultimas alterações)
-
+    * git stash list (mostra uma lista de stash criada)
+    * git stash apply X (troque X pelo numero do id da stash list para recuperar um stash)
+    * git stash show -p X (troque o X pelo numero do id para saber o que foi alterado naquela stash)
