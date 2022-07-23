@@ -89,3 +89,8 @@
     * git stash list (mostra uma lista de stash criada)
     * git stash apply X (troque X pelo numero do id da stash list para recuperar um stash)
     * git stash show -p X (troque o X pelo numero do id para saber o que foi alterado naquela stash)
+
+# Tag
+
+    * git tag -a nomeDaTag -m "descrição"
+    * git tag (visualizar tags)
