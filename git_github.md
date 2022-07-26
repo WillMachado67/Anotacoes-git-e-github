@@ -110,3 +110,8 @@
 # Limpar arquivos desnecessários
 
     * git gc
+
+# Ver o histórico de commit commit criados
+
+    * git shortlog
+
