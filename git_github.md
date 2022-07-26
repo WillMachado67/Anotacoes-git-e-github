@@ -92,5 +92,21 @@
 
 # Tag
 
-    * git tag -a nomeDaTag -m "descrição"
+    * git tag -a nomeDaTag -m "descrição" (cria uma tag)
     * git tag (visualizar tags)
+    * git show nomeDaTag (visualiza detalhes da tag)
+    * git checkout nomeDaTag (alterna entre as tags)
+    * git push origin nomeDaTag (envia tag para o repositório remoto)
+    * git push origin --tags (envia todas as tag para o repositório remoto)
+
+# Enviar alterações feitas em um repositório clonado para repositório remoto original
+
+    * git push --set-upstream origin cadastro (também pode copiar esse comando depois de dar um git push)
+
+# Ver alterações enviada de um repositório clonado para o repositório original
+
+    * git fetch -a
+
+# Limpar arquivos desnecessários
+
+    * git gc
