@@ -114,4 +114,7 @@
 # Ver o histórico de commit commit criados
 
     * git shortlog
+# Ver mudanças feitas
 
+    git diff (se colocar nome da branch ve mudanças entre as branch) 
+    git diff HEAD: nomeDoArquivo (para ver mudanças em um arquivo especifico)
