@@ -116,5 +116,9 @@
     * git shortlog
 # Ver mudanças feitas
 
-    git diff (se colocar nome da branch ve mudanças entre as branch) 
-    git diff HEAD: nomeDoArquivo (para ver mudanças em um arquivo especifico)
+    * git diff (se colocar nome da branch ve mudanças entre as branch) 
+    * git diff HEAD: nomeDoArquivo (para ver mudanças em um arquivo especifico)
+
+# Reflog
+
+    * git reflog (Exibe todos os detalhes precisos nesse repositório)
