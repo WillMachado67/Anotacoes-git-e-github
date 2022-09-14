@@ -33,8 +33,12 @@
     * hospeda/gerencia repositórios
 
 # Subindo aquivos para o repositório remoto
-
-    * git push (depois de ter ativado todos os comandos da pasta do repositório remoto (GitHub), publica arquivos no repositório remoto (GitHub))
+     #### ultilizader os comandos quando for subir pela primeira vez o repositori
+    * git branch -M main
+    * git remote add origin linkDoRepositorio.git
+    * git push -u origin main
+    
+    * git push (depois de ter ativado todos os comandos anteriores, publica arquivos no repositório remoto (GitHub))
 
 # Baixar alterações que estão no repositório remoto (github)
     * git pull
