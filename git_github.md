@@ -33,7 +33,7 @@
     * hospeda/gerencia repositórios
 
 # Subindo aquivos para o repositório remoto
-     #### ultilizader os comandos quando for subir pela primeira vez o repositori
+     #### Utilizar os comandos quando for subir pela primeira vez o repositori
     * git branch -M main
     * git remote add origin linkDoRepositorio.git
     * git push -u origin main
